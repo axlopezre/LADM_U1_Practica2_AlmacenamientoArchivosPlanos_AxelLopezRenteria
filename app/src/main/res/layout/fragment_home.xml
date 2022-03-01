@@ -26,9 +26,9 @@
         android:layout_marginStart="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="70dp"
-        android:text="(PARA GUARDAR LOS DATOS DAR CLIC EN BOTON DEL SOBRE)"
+        android:text="(PARA GUARDAR LOS DATOS PRESIONAR EL BOTON DEL SOBRE)"
         android:textStyle="bold"
-        android:textSize="10sp"
+        android:textSize="13sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 
